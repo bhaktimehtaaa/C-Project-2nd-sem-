@@ -237,3 +237,11 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT:
+//--- NUTRITIONAL MACRO LOGGER ---
+//1. Log a meal
+//2. View today's total macros
+//3. Add new food to database
+//4. Exit
+//Choose an option:
